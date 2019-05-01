@@ -1,0 +1,8 @@
+<templateSet group="Express">
+  <template name="emid" value="app.use(function (req, res, next) {&#10;  $END$&#10;});" description="Express middleware - app.use(function (req, res, next)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
